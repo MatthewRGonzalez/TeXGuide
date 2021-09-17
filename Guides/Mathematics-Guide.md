@@ -12,7 +12,7 @@ To write these equations in markdown, simply wrap a `$$\epsilon$$` around the le
 
 | Letter Name| Greek Letter | Latex Syntax |
 |:------|:------------| :-------------| 
-| Alpha | $$\alpha A$$| `\alpha A`      |
+| Alpha | $\alpha A$| `\alpha A`      |
 | Beta | $$\beta B$$  | `\beta B` |
 | Gamma | $$\gamma \Gamma$$ | `\gamma \Gamma` |
 | Delta | $$\delta \Delta$$  | `\delta \Delta` |
